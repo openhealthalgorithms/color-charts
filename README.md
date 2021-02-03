@@ -7,3 +7,8 @@ Translation of the CVD risk score color charts to JSON. It will be used with the
 - [2019 HEART CVD Management](2019-WHO-HEARTS.pdf)
 - [2019 Risk Score Color Chart](2019-WHO-Color-Chart.pdf)
 - [2007 Risk Score Color Chart](2007-WHO-Color-Chart.pdf)
+
+## Additional Resources
+
+- VSCode Extention for JSON formatting
+  - [json-compact-prettifier](https://marketplace.visualstudio.com/items?itemName=inadarei.json-compact-prettifier)
